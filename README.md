@@ -1,2 +1,2 @@
 # MyFirstNetworkProgram
-A basic example of internet sockets programming
+C Posix Socket example (TCP/IP)
